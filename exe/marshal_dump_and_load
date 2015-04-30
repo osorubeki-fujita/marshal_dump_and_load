@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "marshal_dump_and_load"
